@@ -1,0 +1,115 @@
+* {
+    box-sizing:border-box;
+}
+body {
+    display: flex;
+    background: url(cover.png);
+    background-size: cover;
+}
+.title-1 {
+    width: 493px;
+height: 240px;
+margin-top: 100px;
+margin-left:110px;
+font-weight: 800;
+font-size: 58px;
+line-height: 80px;
+letter-spacing: 0.2px;
+color: #252B42;
+}
+.title-2 {
+    font-weight: 500;
+     font-size: 20px;
+     line-height: 30px;
+     letter-spacing: 0.2px;
+     color: #737373;
+     margin-left: 120px;
+    }.name-1 {
+        width: 248px;
+    height: 58px;
+        font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #737373;
+    padding: 10px;
+    background: #F9F9F9;
+    border: 1px solid #BDBDBD;
+    border-radius: 5px;
+    margin:10px;}
+
+    .name-2 {
+    width: 185px;
+    height: 48px;
+    background: #00A0C1;
+    border-radius: 37px;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    color: #FFFFFF;
+    border:none;
+    margin-left: 120px;
+    }
+    .name-3 {
+    width: 180px;
+    height: 48px;
+    border: 1px solid #00A0C1;
+    border-radius: 37px;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    color: #00A0C1;
+    background: none;
+    margin-left: 10px;
+   
+    }
+    .main-container {
+        height: 619px;
+    width: 328px;
+    border-radius: 10px;
+    padding: 20px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 10px;
+    }
+    h3 {
+        font-weight: 700;
+        font-size: 24px;
+        text-align: center;
+    letter-spacing: 0.1px;
+    color: #252B42;
+    }
+    .name-4 {
+        width: 248px;
+    height: 58px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 28px;
+        letter-spacing: 0.2px;
+        color: #FFFFFF;
+        padding-left: 10px;
+        background: #FFA62B;
+        border: 1px solid #FFFFFF;
+        border-radius: 5px;
+        margin:10px;
+        padding: 15px 60px;
+        
+    }
+    select{
+        width: 248px;
+        height: 58px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 28px;
+        letter-spacing: 0.2px;
+        color: #737373;
+        padding: 10px;
+        background: #F9F9F9;
+        border: 1px solid #BDBDBD;
+        border-radius: 5px;
+        margin:10px;
+    }
+    label {
+        margin-left: 10px;
+    }
